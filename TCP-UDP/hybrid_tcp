@@ -1,0 +1,33 @@
+-----------------------------------------------------------
+Server listening on 5566
+-----------------------------------------------------------
+Accepted connection from 10.0.0.1, port 37840
+[  7] local 10.0.0.16 port 5566 connected to 10.0.0.1 port 37842
+[ ID] Interval           Transfer     Bitrate
+[  7]   0.00-1.00   sec  2.71 GBytes  23.3 Gbits/sec                  
+[  7]   1.00-2.00   sec  2.91 GBytes  25.0 Gbits/sec                  
+[  7]   2.00-3.00   sec  3.34 GBytes  28.7 Gbits/sec                  
+[  7]   3.00-4.00   sec  3.19 GBytes  27.4 Gbits/sec                  
+[  7]   4.00-5.00   sec  3.31 GBytes  28.5 Gbits/sec                  
+[  7]   5.00-6.00   sec  3.14 GBytes  27.0 Gbits/sec                  
+[  7]   6.00-7.00   sec  3.14 GBytes  27.0 Gbits/sec                  
+[  7]   7.00-8.00   sec  3.38 GBytes  29.1 Gbits/sec                  
+[  7]   8.00-9.00   sec  3.36 GBytes  28.9 Gbits/sec                  
+[  7]   9.00-10.00  sec  3.25 GBytes  27.9 Gbits/sec                  
+[  7]  10.00-11.00  sec  2.37 GBytes  20.4 Gbits/sec                  
+[  7]  11.00-12.00  sec  2.37 GBytes  20.3 Gbits/sec                  
+[  7]  12.00-13.00  sec  3.41 GBytes  29.3 Gbits/sec                  
+[  7]  13.00-14.00  sec  2.80 GBytes  24.1 Gbits/sec                  
+[  7]  14.00-15.00  sec  2.09 GBytes  17.9 Gbits/sec                  
+[  7]  15.00-16.00  sec  1.77 GBytes  15.2 Gbits/sec                  
+[  7]  16.00-17.00  sec  2.22 GBytes  19.1 Gbits/sec                  
+[  7]  17.00-18.00  sec  3.04 GBytes  26.1 Gbits/sec                  
+[  7]  18.00-19.00  sec  3.34 GBytes  28.7 Gbits/sec                  
+[  7]  19.00-20.00  sec  3.29 GBytes  28.3 Gbits/sec                  
+[  7]  20.00-20.00  sec  10.2 MBytes  20.8 Gbits/sec                  
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate
+[  7]   0.00-20.00  sec  58.5 GBytes  25.1 Gbits/sec                  receiver
+-----------------------------------------------------------
+Server listening on 5566
+-----------------------------------------------------------

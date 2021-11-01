@@ -1,0 +1,22 @@
+-----------------------------------------------------------
+Server listening on 5566
+-----------------------------------------------------------
+Accepted connection from 10.0.0.1, port 51736
+[  7] local 10.0.0.15 port 5566 connected to 10.0.0.1 port 59596
+[ ID] Interval           Transfer     Bitrate         Jitter    Lost/Total Datagrams
+[  7]   0.00-1.00   sec  1.04 MBytes  8.75 Mbits/sec  0.093 ms  0/756 (0%)  
+[  7]   1.00-2.00   sec  1.34 MBytes  11.2 Mbits/sec  0.034 ms  0/968 (0%)  
+[  7]   2.00-3.00   sec  1.19 MBytes  10.0 Mbits/sec  0.047 ms  0/864 (0%)  
+[  7]   3.00-4.00   sec  1.19 MBytes  10.0 Mbits/sec  0.056 ms  0/862 (0%)  
+[  7]   4.00-5.00   sec  1.19 MBytes  10.0 Mbits/sec  0.135 ms  0/864 (0%)  
+[  7]   5.00-6.00   sec  1.19 MBytes  10.0 Mbits/sec  0.049 ms  0/863 (0%)  
+[  7]   6.00-7.00   sec  1.19 MBytes  10.0 Mbits/sec  0.106 ms  0/864 (0%)  
+[  7]   7.00-8.00   sec  1.19 MBytes  10.0 Mbits/sec  0.059 ms  0/863 (0%)  
+[  7]   8.00-9.00   sec  1.19 MBytes  9.99 Mbits/sec  0.067 ms  0/863 (0%)  
+[  7]   9.00-10.00  sec  1.19 MBytes  10.0 Mbits/sec  0.161 ms  0/864 (0%)  
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Jitter    Lost/Total Datagrams
+[  7]   0.00-10.00  sec  11.9 MBytes  9.99 Mbits/sec  0.161 ms  0/8631 (0%)  receiver
+-----------------------------------------------------------
+Server listening on 5566
+-----------------------------------------------------------
